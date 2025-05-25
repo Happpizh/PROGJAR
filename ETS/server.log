@@ -1,1 +1,16 @@
+2025-05-25 02:13:10,504 - INFO - MainThread - Process server started on 0.0.0.0:5666 using multiprocessing.Process
+2025-05-25 02:13:22,736 - INFO - MainThread - Thread-pool server started on 0.0.0.0:5666 with 1 workers
+2025-05-25 02:20:24,815 - INFO - MainThread - Accepted connection from ('172.16.16.103', 58142)
+2025-05-25 02:20:24,815 - INFO - ThreadPoolExecutor-0_0 - Connection from ('172.16.16.103', 58142)
+2025-05-25 02:20:24,816 - DEBUG - ThreadPoolExecutor-0_0 - Received data (truncated): LIST
 
+
+2025-05-25 02:20:24,816 - INFO - ThreadPoolExecutor-0_0 - Sent list of files to ('172.16.16.103', 58142)
+2025-05-25 02:20:24,816 - INFO - ThreadPoolExecutor-0_0 - Closed connection from ('172.16.16.103', 58142)
+2025-05-25 02:22:31,449 - INFO - MainThread - Accepted connection from ('172.16.16.103', 39008)
+2025-05-25 02:22:31,449 - INFO - ThreadPoolExecutor-0_0 - Connection from ('172.16.16.103', 39008)
+2025-05-25 02:22:31,449 - DEBUG - ThreadPoolExecutor-0_0 - Received data (truncated): LIST
+
+
+2025-05-25 02:22:31,449 - INFO - ThreadPoolExecutor-0_0 - Sent list of files to ('172.16.16.103', 39008)
+2025-05-25 02:22:31,450 - INFO - ThreadPoolExecutor-0_0 - Closed connection from ('172.16.16.103', 39008)
